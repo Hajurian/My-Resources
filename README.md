@@ -4,3 +4,8 @@
 <p>A platform that does web hosting and storage. Easy to use and easy to integrate google auth. Downsides are the quotas that can be potentially limiting</p>
 <h3><a href="pocketbase.io">PocketBase</h3>
 <p>A lightweight database that is perfect for side projects and small - medium collections of data. Very easy to use and has auth.</p>
+<h2>Framework related</h2>
+<h3><a href="https://react.dev/">React</h3>
+<p>A javascript framework that allows the creation of reuseable components and responsive UI.</p>
+<h3><a href="https://nextjs.org/">NextJS</h3>
+<p>A framework that builds on top of React to add serverside functions, app routing, and many more things</p>
