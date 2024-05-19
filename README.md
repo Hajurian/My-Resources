@@ -6,6 +6,8 @@
 <p>A lightweight database that is perfect for side projects and small - medium collections of data. Very easy to use and has auth.</p>
 <h3><a href="https://vercel.com/home">Vercel</a></h3>
 <p>(The company that made NextJS) providing a hosting service that has very easy control over server functions and deployment.</p>
+<h3><a href="https://console.cloud.google.com/">Google Dev Console</h3>
+<p>The developer console for Google that allows the implementation of things like API keys, OAuth client IDs, and more</p>
 <h2>Framework related</h2>
 <h3><a href="https://react.dev/">React</h3>
 <p>A javascript framework that allows the creation of reuseable components and responsive UI.</p>
