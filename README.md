@@ -15,3 +15,6 @@
 <p>A javascript framework that allows the creation of reuseable components and responsive UI.</p>
 <h3><a href="https://nextjs.org/">NextJS</h3>
 <p>A framework that builds on top of React to add serverside functions, app routing, and many more things</p>
+<h2>Design and UI</h2>
+<h3><a href="https://mui.com">Material UI</h3>
+<p>A react component library that has tons of customizable UI components</p>
